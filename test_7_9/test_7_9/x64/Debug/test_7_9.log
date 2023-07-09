@@ -1,0 +1,2 @@
+﻿  test.c
+D:\考研\王道数据结构\works\test_7_9\test_7_9\test.c(77): error C4700: 使用了未初始化的局部变量“L”
